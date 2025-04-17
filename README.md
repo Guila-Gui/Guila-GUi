@@ -1,4 +1,4 @@
-## 🚀 Olá, sou Guilherme Oliveira De Sena Campos!##
+## 🚀 Olá, sou Guilherme Oliveira De Sena Campos!
  -Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprendendo as seguintes tecnologias:
 
 
